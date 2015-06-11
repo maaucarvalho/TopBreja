@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TopBreja.Data
 {
-    public class Class1
+    public class Cerveja
     {
+        public int idCerveja { get; set; }
     }
 }
