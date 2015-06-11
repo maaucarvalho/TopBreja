@@ -8,6 +8,9 @@ namespace TopBreja.Data
 {
     public class Cerveja
     {
-        public int idCerveja { get; set; }
+        public int id { get; set; }
+        public int nome { get; set; }
+
+        // Se conseguiram enxergar isso é porque resolvi o erro do cadeado azul do capiroto ;)
     }
 }
