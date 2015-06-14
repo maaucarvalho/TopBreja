@@ -42,6 +42,7 @@
     <Compile Include="Caracteristicas.cs" />
     <Compile Include="Cerveja.cs" />
     <Compile Include="Cidades.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Locais.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario.cs" />
